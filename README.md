@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning  **C++ with DSA & WEB DEVELOPMENT course**
 
-- 👨‍💻 All of my projects are available at [](https://www.linkedin.com/in/punit-poranik)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/punit-poranik-b8a500225](https://www.linkedin.com/in/punit-poranik-b8a500225)
 
 - 📫 How to reach me **poranikpunit@gmail.com**
 
